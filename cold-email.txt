@@ -1,4 +1,8 @@
 Cold Email Message
+
+Subject Line: 👋 Still hiring for PM Monetization? Here to contribute!
+
+Hi [name],
 I saw your Linkedin post about the Product Manager, Monetization role on your team.
 
 I've been at SoundCloud (50M+ MAUs) as a Growth PM for the past 2.6 years, where my core focus was on user retention and monetization. 
@@ -10,11 +14,6 @@ I'm leaving SoundCloud soon and am looking for new opportunities for both person
 I've attached my resume to this email. You can also find me on LinkedIn and Github.
 
 I look forward to hearing back from you. Either way, keep building awesome things at Slack.
-
-Warm regards,
-[your_name]
-
-Cold Twitter DM
 
 Warm regards,
 [your_name]
@@ -32,6 +31,6 @@ I'd normally go through company referrals but I do not know anyone that works at
 Resume: http://bit.ly/2ih30Xf
 Cover Letter: http://bit.ly/2hXvg3x
 
-Even if I don't get the position, I'd love to meet with you to discuss some feature ideas I have for Soundcloud to grow its user base. 
+Even if I don't get the position, I'd love to meet with you to discuss some feature ideas I have for SoundCloud to grow its user base. 
 
 Happy Holidays [name]!
