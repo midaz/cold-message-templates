@@ -4,6 +4,7 @@ Here are templates you can use for outreach to hiring managers and recruiters fo
 **Here are some other tips:** 
 - Use ChatGPT or Claude to further refine the message
 - Always personalize the message to the person, role, and company you are applying to.
+- Don't make a paragraph longer than 2 sentences. If longer, split into 2 paragraphs. 
 - Always attach your resume and website to the message (and cover letter if applicable) 
 - Don't get attached to outcomes, get attached to inputs. You can't control if/how someone responds, but you can control the # of people you send to, the quality of your message, how long you keep at it, etc.
 
